@@ -2,9 +2,9 @@
 
 Basic nodemailer example
 
-##Installation
+## Installation
 git clone
-```bash
+```terminal
 git clone https://github.com/yiromo/nodemailer
 ```
 
